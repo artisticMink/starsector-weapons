@@ -2,6 +2,8 @@
 
 ## Weapons
 
+Below weapons use portals to reach their target.
+
 | Weapon         | Mount  | Damage Type    | Role        | Damage/Shot | OPs |
 |----------------|--------|----------------|-------------|-------------|-----|
 | Kinsei HKPM-20 | Medium | Kinetic        | Anti Shield | 300         | 12  |
@@ -9,7 +11,7 @@
 | Kinsei HTRP-4  | Large  | High Explosive | Anti Armor  | 3800        | 22  |
 | Audrey Special | Medium | Fragmentation  | Party Trick | 1000        | 8   |
 
-The Kinseis can be aqquired as high level loot or from the historian. The Audrey special might also pop up on specialized markets. 
+The Kinseis can be acquired as high level loot or from the historian. The Audrey special might also pop up on specialized markets. 
 
 ## Creating Portal Missiles
 
