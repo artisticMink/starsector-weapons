@@ -1,0 +1,20 @@
+{
+  "TOS_RIFT":{
+    "mode":"QUAD_STRIP",
+    "contrailDuration":1,                    # how long trail segments live (seconds)
+    "contrailWidthMult":0.72,                # trail width
+    "contrailWidthAddedFractionAtEnd":-1,    # negative = trail narrows toward the tail
+    "contrailMinSeg":6,                      # min trail segment length
+    "contrailMaxSpeedMult":1,
+    "contrailAngularVelocityMult":0,
+    "contrailColor":[180,60,255,130],         # trail tint
+
+    "glowSprite":"graphics/fx/engineglow32b.png",
+    "glowOutline":"graphics/fx/engineflame32b.png",
+    "omegaMode":false,                        # the rift effect
+    "glowSizeMult":1,
+    "engineColor":[80,160,255,190],
+
+    "type":"GLOW"
+  }
+}
