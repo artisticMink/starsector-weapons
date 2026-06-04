@@ -38,3 +38,7 @@ A folder named libs/ with these jars:
 * lwjgl_util.jar
 
 A file `gradle.properties.` in the root directory with `starsectorModFolder=<absolute-path-to-your-mod-folder>`
+
+[PortalMissileAI]: src/main/kotlin/maver/weapons/combat/weapons/portalpod/PortalMissileAi.kt
+[PortalMissileAiConfig]: src/main/kotlin/maver/weapons/combat/weapons/portalpod/PortalMissileAiConfig.kt
+[BehaviorInterface]: src/main/kotlin/maver/weapons/combat/weapons/portalpod/behavior/BehaviorInterface.kt
