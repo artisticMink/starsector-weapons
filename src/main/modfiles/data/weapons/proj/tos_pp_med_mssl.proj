@@ -1,0 +1,60 @@
+{
+   "id":"tos_pp_med_mssl",
+   "specClass":"missile",
+   "missileType":"MISSILE",
+   "sprite":"graphics/missiles/missile_LRM.png",
+  "onFireEffect": "maver.weapons.combat.weapons.portalpod.onfire.PortalMissileOnFire",
+   "size":[                              # sprite dimensions
+      6,                                 # w
+      26                                 # h
+   ],
+   "center":[                            # origin point of the sprite
+      4,                                 # x
+      16                                 # y
+   ],
+   "collisionRadius":30,
+   "collisionClass":"MISSILE_NO_FF",
+   "explosionColor":[
+         200,
+         200,
+         200,
+         180
+   ],
+   "explosionRadius":100,
+   "explosionSpec":{
+      "duration":3f,
+      "radius":70,
+      "coreRadius":20,
+      "collisionClass":"HITS_SHIPS_AND_ASTEROIDS",
+      "collisionClassByFighter":"HITS_SHIPS_AND_ASTEROIDS",
+      "particleSizeMin":1.4,
+      "particleSizeRange":2.0,
+      "particleDuration":1.6,
+      "particleCount":80,
+      "particleColor":[
+         200,
+         200,
+         200,
+         180
+      ]
+   },
+   "engineSpec":{
+      "turnAcc":30,
+      "turnRate":20,
+      "acc":300,
+      "dec":100
+   },
+   "engineSlots":[
+      {
+         "id":"ES1",
+         "loc":[                          # offset from missile center, in ship-local coords
+            -13,                          # x: - = toward tail (rear edge)
+            0                             # y: - = right, 0 = centered
+         ],
+         "style":"TOS_RIFT",
+         "width":8.0,                    # flame width
+         "length":64.0,                   # flame length
+         "angle":180.0                    # 180 = straight out the back
+      }
+   ]
+}

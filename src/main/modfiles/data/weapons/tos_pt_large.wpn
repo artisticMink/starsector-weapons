@@ -1,0 +1,28 @@
+{
+   "id":"tos_pt_large",
+   "specClass":"projectile",
+   "projectileSpecId":"tos_pt_large_trp",
+   "type":"MISSILE",
+   "size":"LARGE",
+   "displayArcRadius":500,
+   "turretSprite":"graphics/weapons/dragonfire_launcher_lrg_turret.png",
+   "hardpointSprite":"graphics/weapons/dragonfire_launcher_lrg_hardpoint.png",
+   "turretOffsets":[
+      5,
+      0
+   ],
+   "turretAngleOffsets":[
+      0
+   ],
+   "hardpointOffsets":[
+      8,
+      0
+   ],
+   "hardpointAngleOffsets":[
+      0
+   ],
+   "animationType":"SMOKE",
+   "barrelMode":"ALTERNATING",
+   "everyFrameEffect":"maver.weapons.combat.weapons.portalpod.PortalDeployWeaponEffect",
+   "fireSoundOne":"breach_fire"
+}

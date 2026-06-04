@@ -1,0 +1,30 @@
+{
+  "id": "tos_pp_med",
+  "specClass": "projectile",
+  "projectileSpecId": "tos_pp_med_mssl",
+  "type": "MISSILE",
+  "size": "MEDIUM",
+   "displayArcRadius":500,
+   "turretSprite":"graphics/weapons/phase_charge_launcher_turret_base.png",
+   "hardpointSprite":"graphics/weapons/phase_charge_launcher_hardpoint_base.png",
+   "turretOffsets":[
+      9,
+      0
+   ],
+   "turretAngleOffsets":[
+      0
+   ],
+   "hardpointOffsets":[
+      16,
+      0
+   ],
+   "hardpointAngleOffsets":[
+      0
+   ],
+   "animationType":"SMOKE",
+   "barrelMode":"ALTERNATING",
+   "turretGlowSprite":"graphics/weapons/phase_charge_launcher_turret_base.png",
+   "hardpointGlowSprite":"graphics/weapons/phase_charge_launcher_hardpoint_base.png",
+   "everyFrameEffect":"maver.weapons.combat.weapons.portalpod.AllowedOnlyWithTargetWeaponEffect",
+   "fireSoundOne":"breach_fire"
+}
