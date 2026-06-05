@@ -2,9 +2,9 @@ Below weapons use  transverse jumps to reach their target.
 
 | Weapon         | Mount  | Damage Type    | Role        | Damage/Shot | OPs |
 |----------------|--------|----------------|-------------|-------------|-----|
-| Kinsei HKPM-20 | Medium | Kinetic        | Anti Shield | 300         | 12  |
-| Kinsei HKPM-8  | Small  | Kinetic        | Anti Shield | 300         | 6   |
-| Kinsei HTRP-4  | Large  | High Explosive | Anti Armor  | 3800        | 22  |
+| Kinsei HKPM-20 | Medium | Kinetic        | Anti Shield | 280         | 13  |
+| Kinsei HKPM-8  | Small  | Kinetic        | Anti Shield | 280         | 6   |
+| Kinsei HTRP-4  | Large  | High Explosive | Anti Armor  | 3800        | 24  |
 | Audrey Special | Medium | Fragmentation  | Party Trick | 1000        | 8   |
 
 The weapons can be acquired as high level loot or via blueprint from the historian. Some might also pop up on specialized markets. 
