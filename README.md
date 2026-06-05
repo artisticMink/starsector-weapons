@@ -1,8 +1,4 @@
-# Weapons and stuff, but mostly weapons
-
-## Weapons
-
-Below weapons use portals to reach their target.
+Below weapons use  transverse jumps to reach their target.
 
 | Weapon         | Mount  | Damage Type    | Role        | Damage/Shot | OPs |
 |----------------|--------|----------------|-------------|-------------|-----|
@@ -11,13 +7,13 @@ Below weapons use portals to reach their target.
 | Kinsei HTRP-4  | Large  | High Explosive | Anti Armor  | 3800        | 22  |
 | Audrey Special | Medium | Fragmentation  | Party Trick | 1000        | 8   |
 
-The Kinseis can be acquired as high level loot or from the historian. The Audrey special might also pop up on specialized markets. 
+The weapons can be acquired as high level loot or via blueprint from the historian. Some might also pop up on specialized markets. 
 
-## Creating Portal Missiles
+### Creating Portal Missiles
 
 If you want to create portal missiles yourself, take a look at [PortalMissileAI].
 
-Either grab the code or use this mod as a dependency, [PortalMissileAiConfig] and [BehaviorInterface] already offer extendability.
+Either grab the code or use this mod as a dependency, [PortalMissileAiConfig] and [BehaviorInterface] already offer some extendability.
 
 ## Build the mod
 
