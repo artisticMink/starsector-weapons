@@ -174,7 +174,7 @@ open class PortalMissileAi(
         val nearOffset = (config.luckyClose..config.luckyFar).random()
 
         // Take target ship size into account
-        val targetRadius = 0.6f * ((target?.takeIf { Global.getCombatEngine().isEntityInPlay(it) }?.collisionRadius) ?: 0f)
+        val targetRadius = 0.5f * ((target?.takeIf { Global.getCombatEngine().isEntityInPlay(it) }?.collisionRadius) ?: 0f)
         val exitDistance = targetRadius.plus(config.exitOffset)
 
         val exitLoc = Vector2f(

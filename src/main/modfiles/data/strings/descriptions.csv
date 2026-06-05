@@ -1,6 +1,6 @@
 id,type,text1,text2,text3,text4,text5,notes
 tos_pp_small,WEAPON,A Pilum with its EMP generator stripped in favor of a small-scale hyperdrive. Fires a group of missiles that execute a small-scale transverse jump to emerge close to the target.,,,,,
 tos_pp_med,WEAPON,A Pilum with its EMP generator stripped in favor of a small-scale hyperdrive. Fires a group of missiles that execute a small-scale transverse jump to emerge close to the target.,,,,,
-tos_pt_large,WEAPON,"A common Typhoon Reaper launcher with the better half of a hyperspace drive bolted onto it for good measure. Utilizes the ship's flux grid to create a short-lived portal.
+tos_pt_large,WEAPON,"A Typhoon Reaper launcher with the better half of a hyperspace drive bolted onto it for good measure. Utilizes the ship's flux grid to create a short-lived portal.
 ",,,,,
 tos_pp_med_pirate,WEAPON,"""If you can throw it at a planet, you can throw it at a ship. It's not that difficult so shut your trap and give me that tank.""",,,,,
